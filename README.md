@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me ...
 - 😄 Pronouns: He
-- ⚡ Fun fact: I not know's lol
+- ⚡ Fun fact: I dont know
 
 <!---
 PedroMarjores/PedroMarjores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
